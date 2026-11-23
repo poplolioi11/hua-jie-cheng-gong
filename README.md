@@ -31,4 +31,6 @@ Both readings used the fixed source images. Claude produced the first reading fo
 
 歷史原文及忠實轉錄按公有領域狀態提供。新增且受著作權保護的說明與整理編排採 CC BY 4.0。 [權利說明](LICENSE.md)
 
-曲宸宇（Chu, Chen-Yu）。2026。化劫成功論（DRS 428685230） / Hua jie cheng gong lun: Transcription Dataset。v0.2.0。資料集。 [固定發行](https://github.com/poplolioi11/hua-jie-cheng-gong/releases/tag/v0.2.0) · [ORCID](https://orcid.org/0009-0003-9738-6914)
+曲宸宇（Chu, Chen-Yu）。2026。化劫成功論（DRS 428685230） / Hua jie cheng gong lun: Transcription Dataset。v0.2.0。資料集。 [固定發行](https://github.com/poplolioi11/hua-jie-cheng-gong/releases/tag/v0.2.0) · [ORCID](https://orcid.org/0009-0003-9738-6914) · [版本 DOI](https://doi.org/10.5281/zenodo.24468383) · [系列 DOI](https://doi.org/10.5281/zenodo.24468382)
+
+`PACKAGE-SHA256SUMS.txt` 對應固定 v0.2.0 發行包。此頁與引用檔在 GitHub `main` 補列經公開讀回核對的 Zenodo DOI。

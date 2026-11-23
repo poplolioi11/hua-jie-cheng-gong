@@ -32,5 +32,13 @@
     "Zheng Yuren",
     "古籍轉錄",
     "Historical text transcription"
+  ],
+  "doi": "10.5281/zenodo.24468383",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24468382",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
