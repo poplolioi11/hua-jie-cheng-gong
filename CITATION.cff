@@ -1,0 +1,36 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "化劫成功論（DRS 428685230） / Hua jie cheng gong lun: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-23",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/hua-jie-cheng-gong/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/hua-jie-cheng-gong",
+  "abstract": "Hua jie cheng gong lun is a Chinese Christian pamphlet issued in 1891 by the Jiushihui of Qingzhou. Its title leaf gives the Guangxu and Western dates. Zheng Yuren’s preface names the author as Xiu Yaochun (Francis Huberty James), whose own preface is signed Xiu Huayang. The body considers why preaching meets persecution, discussing hostile reception, inconsistencies between what believers say and do, and how hardship can become a reason to encourage others. It closes with assurances of peace and blessing in this world and the next. The pamphlet supports research on late Qing missionary printing and responses to local conflict in Shandong.\n\nThis dataset uses 32 fixed images from Harvard-Yenching Library DRS 428685230. The main text is transcribed from 20 pages. The AI-reviewed JSON, TXT and TEI transcription retains 39 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "青州府救世會",
+    "Jiushihui of Qingzhou",
+    "晚清山東出版",
+    "Late Qing publishing in Shandong",
+    "華文基督教小冊",
+    "Chinese Christian pamphlets",
+    "傳道與逼迫",
+    "Preaching and persecution",
+    "秀華陽",
+    "Xiu Huayang",
+    "秀耀春",
+    "Francis Huberty James",
+    "鄭雨人",
+    "Zheng Yuren",
+    "古籍轉錄",
+    "Historical text transcription"
+  ]
+}
